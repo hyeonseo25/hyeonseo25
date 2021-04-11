@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=&fontSize=90)
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20there%20👋&20&fontSize=90)
+### 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyeonseo25)](https://github.com/anuraghazra/github-readme-stats)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonseo25&layout=compact&langs_count=81)
 
