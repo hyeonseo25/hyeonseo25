@@ -21,6 +21,15 @@
 <a href="" target="_blank"><img alt="Oracle" src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=flat-square&logo=oracle&logoColor=white" /></a>
 <a href="" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white"/></a>
 
+### Social
+
+<a href="https://www.instagram.com/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-F78743?style=flat-square&logo=Instagram&logoColor=white" /></a>
+<a href="" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="" target="_blank"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" /></a>
+<a href="" target="_blank"><img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" /></a>
+<a href="https://www.facebook.com/hre2003" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=flat-square&logo=Facebook&logoColor=white"/></a>
+
+
 <!--
 **hyeonseo25/hyeonseo25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.d
 
