@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20there%20👋&20&fontSize=90)
 ### 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyeonseo25)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&langs_count=81)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonseo25&layout=compact&langs_count=81)
 ### Programming Languages
 <a href="" target="_blank"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white"/></a>
 <a href="" target="_blank"><img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/></a>
